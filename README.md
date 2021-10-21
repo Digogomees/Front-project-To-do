@@ -3,7 +3,7 @@
 um projetinho simples de to - do criado em react que cria uma lista de usuário e para cada suas tarefas.
 
 ## Para iniciar o projeto é bem simples! Vamos lá...
-1. faça clone desse projeto indo no botão code e copiar o link https
+1. faça o clone desse projeto indo no botão code e copiar o link https
 2. abra o terminal execute cd para entrar em alguma pasta depois ls ver as pastas, escolha uma pasta ex: cd /Documents
 3. execute o comando git clone e o link https copiado na pasta desejada
 4. abra a pasta pelo vscode
