@@ -1,0 +1,34 @@
+.content_list{
+    background-color: white;
+    border-radius: 10px;
+    padding: 30px;
+}
+
+.top{
+    padding: 0 0 2rem  0;
+}
+
+.roll{
+    height: 450px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    scroll-behavior: contain;
+}
+
+.roll.task_list{
+    height: 350px;
+}
+
+.title_task{
+    color: white;
+    display: flex;
+    margin: 45px 10px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.title h2{
+    color: white;
+    text-align: center;
+    margin: 60px;
+}
